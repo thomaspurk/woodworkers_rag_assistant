@@ -1,0 +1,7 @@
+python-dotenv
+pytest
+langchain-community
+unstructured 
+faiss-cpu 
+langchain-openai 
+langchain-huggingface
