@@ -5,3 +5,5 @@ unstructured
 faiss-cpu 
 langchain-openai 
 langchain-huggingface
+langgraph
+gradio
